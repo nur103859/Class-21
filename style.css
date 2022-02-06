@@ -1,0 +1,39 @@
+/* Navbar-Section */
+
+.container-aa {
+    padding: 0 30px;
+}
+.navbar-brand-bb {
+    margin-right: 60px;
+}
+.navber-cc {
+    padding: 20px 0;
+    background: #F8F9FA;
+}
+
+/* Carousel-section */
+
+.car-cap-aa{
+    bottom: 215px;
+}    
+
+/* blockquotes-section */
+
+.blockquote h2{
+    margin-bottom: 14px;
+}
+.blockquote p {
+    font-size: 18px;
+    margin-bottom: 9px;
+}
+.blockquote-footer {
+    font-size: 15px;
+    margin-top: -9px;
+}
+
+/* card and progress bar */
+
+.card-text {
+    font-size: 14px;
+    text-align: start;
+}
